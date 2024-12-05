@@ -1,0 +1,2 @@
+# GalacticPancakes
+ Decentralised trading platform
